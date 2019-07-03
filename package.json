@@ -1,0 +1,17 @@
+{
+  "name": "@zbj/robotjs",
+  "version": "1.0.1",
+  "description": "robot factory",
+  "main": "index.js",
+  "repository": "git@git.zhubajie.la:dept-platform-common/robotjs.git",
+  "author": "OrangeBorning <orangeborningzxp@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "robot"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "moment": "^2.24.0",
+    "node-schedule": "^1.3.2"
+  }
+}

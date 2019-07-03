@@ -1,7 +1,4 @@
-# ROBOTJS
-
-```js
-const Robot = require('@zbj/robotjs').default;
+const Robot = require('../index').default;
 
 const moment = require('moment');
 function momentFormat(time, template) {
@@ -16,9 +13,9 @@ Atom
     {
       msgtype: "text",
       text: {
-        content: `你想干啥呢`
+        content: `随便写写`
       }
     }
   )
   .start()
-```
+
