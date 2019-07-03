@@ -1,9 +1,9 @@
 {
-  "name": "@zbj/robotjs",
-  "version": "1.0.1",
+  "name": "robotjs",
+  "version": "1.0.0",
   "description": "robot factory",
   "main": "index.js",
-  "repository": "git@git.zhubajie.la:dept-platform-common/robotjs.git",
+  "repository": "git@github.com:OrangeBorning/qywxRobotjs.git",
   "author": "OrangeBorning <orangeborningzxp@gmail.com>",
   "license": "MIT",
   "keywords": [
